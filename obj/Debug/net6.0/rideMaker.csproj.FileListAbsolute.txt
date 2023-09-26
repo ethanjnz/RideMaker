@@ -1,0 +1,15 @@
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\rideMaker\obj\Debug\net6.0\rideMaker.csproj.AssemblyReference.cache
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\rideMaker\obj\Debug\net6.0\rideMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\rideMaker\obj\Debug\net6.0\rideMaker.AssemblyInfoInputs.cache
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\rideMaker\obj\Debug\net6.0\rideMaker.AssemblyInfo.cs
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\rideMaker\obj\Debug\net6.0\rideMaker.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\rideMaker\bin\Debug\net6.0\rideMaker.exe
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\rideMaker\bin\Debug\net6.0\rideMaker.deps.json
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\rideMaker\bin\Debug\net6.0\rideMaker.runtimeconfig.json
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\rideMaker\bin\Debug\net6.0\rideMaker.dll
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\rideMaker\bin\Debug\net6.0\rideMaker.pdb
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\rideMaker\obj\Debug\net6.0\rideMaker.dll
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\rideMaker\obj\Debug\net6.0\refint\rideMaker.dll
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\rideMaker\obj\Debug\net6.0\rideMaker.pdb
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\rideMaker\obj\Debug\net6.0\rideMaker.genruntimeconfig.cache
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\rideMaker\obj\Debug\net6.0\ref\rideMaker.dll
